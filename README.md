@@ -8,14 +8,22 @@
   <img src="./assets/coding.gif" alt="Cute lofi developer coding at a desk" />
 </p>
 
-<img src="./assets/octopus.png" width="300" align="right" alt="Cute code buddy mascot">
-I am Sopheaktra Leng, a full-stack web developer who enjoys building practical and user-friendly web apps.
+<img src="./assets/octopus.png" width="260" align="right" alt="Cute code buddy mascot">
 
-- 🔭 I’m working on full-stack projects using React, Next.js, Node.js, Express, MongoDB, and MySQL.
-- 🌱 I’m currently learning scalable backend architecture, DevOps workflows, and production-ready app design.
-- 🛠️ I have hands-on experience with authentication, API design, Docker, Kubernetes, Jenkins, and Cloudflare Workers.
-- 📫 Reach me at: https://www.sopheaktraleng.app/
-- ⚡ Fun fact: I love turning real problems into simple, clean software.
+<h2 align="left">
+<img src="./assets/cat-typing.gif" width="25" alt="Cute typing mascot">
+  About me:
+</h3>
+
+I am **Sopheaktra Leng**, a full-stack web developer who likes turning ideas into clean, useful, and production-ready web apps.
+
+- 🔭 Building full-stack projects with **React, Next.js, Node.js, Express, MongoDB, and MySQL**.
+- 🌱 Exploring **scalable backend architecture**, **DevOps workflows**, and better production habits.
+- 🛠️ Working with authentication, API design, Docker, Kubernetes, Jenkins, and Cloudflare Workers.
+- 📫 Portfolio: [sopheaktraleng.app](https://www.sopheaktraleng.app/)
+- ⚡ Fun fact: I like making complex problems feel simple, then making the UI look calm about it.
+
+<br clear="right">
 
 <!-- Tech Stack -->
 <img src="./assets/space-cat.gif" width="50" align="left" alt="Cute code buddy mascot">
