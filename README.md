@@ -64,8 +64,3 @@ I work mainly with the JavaScript ecosystem, from responsive React interfaces to
 <p align="right">
   <img src="./assets/girl.gif" width="180" alt="Animated girl illustration" />
 </p>
-
-<br><br><br>
-
-
-<br>
