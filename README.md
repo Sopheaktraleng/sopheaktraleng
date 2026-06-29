@@ -8,12 +8,12 @@
   <img src="./assets/coding.gif" alt="Cute lofi developer coding at a desk" />
 </p>
 
-<img src="./assets/octopus.png" width="260" align="right" alt="Cute code buddy mascot">
-
 <h2 align="left">
 <img src="./assets/cat-typing.gif" width="25" alt="Cute typing mascot">
   About me:
-</h3>
+</h2>
+
+<img src="./assets/octopus.png" width="260" align="right" alt="Cute code buddy mascot">
 
 I am **Sopheaktra Leng**, a full-stack web developer who likes turning ideas into clean, useful, and production-ready web apps.
 
